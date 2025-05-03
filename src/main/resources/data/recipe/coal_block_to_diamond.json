@@ -1,12 +1,13 @@
 {
   "type": "minecraft:crafting_shaped",
   "pattern": [
-    "CC",
-    "CC"
+    "CCC",
+    "CCC",
+    "CCC"
   ],
   "key": {
     "C": {
-      "item": "minecraft:coal"
+      "item": "minecraft:coal_block"
     }
   },
   "result": {
