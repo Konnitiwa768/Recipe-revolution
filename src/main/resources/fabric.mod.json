@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 1,
+  "id": "recipe_revolution",
+  "version": "1.0.0",
+  "name": "Recipe Revolution",
+  "description": "バニラ素材で痒いところに手が届くレシピを追加するMOD。",
+  "authors": ["あなたの名前"],
+  "entrypoints": {
+    "main": [
+      "com.example.reciperevolution.RecipeRevolution"
+    ]
+  },
+  "depends": {
+    "fabricloader": ">=0.14.0",
+    "minecraft": "1.20.x",
+    "fabric": "*"
+  }
+}
